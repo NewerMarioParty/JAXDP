@@ -16,8 +16,8 @@ TBA
 [discordImg]: https://img.shields.io/discord/671902942466408478.svg?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
 [discordLink]: https://discord.gg/F55qYKm
 
-[ciImg]: https://img.shields.io/github/workflow/status/CrankySupertoon/EnderIO-Fluxified/Java%20CI%20with%20Gradle?style=for-the-badge
-[ciLink]: https://github.com/CrankySupertoon/EnderIO-Fluxified/actions?query=workflow%3A%22Java+CI+with+Gradle%22
+[ciImg]: https://img.shields.io/github/workflow/status/CrankySupertoon/JAXDP/.NET%20Core?style=for-the-badge
+[ciLink]: https://github.com/CrankySupertoon/JAXDP/actions?query=workflow%3A%22.NET+Core%22
 
 [ghrImg]: https://img.shields.io/github/downloads/CrankySupertoon/JAXDP/total?style=for-the-badge
 [ghrlink]: https://github.com/CrankySupertoon/JAXDP/releases
