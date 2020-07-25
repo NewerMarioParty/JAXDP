@@ -28,13 +28,13 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(79, 10);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.Location = new System.Drawing.Point(125, 10);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(339, 29);
+            this.label1.Size = new System.Drawing.Size(340, 29);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Just Another XDelta Patcher";
+            this.label1.Text = "Newer Mario Party";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
@@ -158,7 +158,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Just Another XDelta Patcher (v1.10)";
+            this.Text = "Newer Mario Party Patcher (v1.40)";
             this.ResumeLayout(false);
             this.PerformLayout();
 
